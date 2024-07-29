@@ -1,0 +1,103 @@
+body{
+    background: url("/projet_ecole/TTF/fondlotus.jpg") fixed center;
+    background-size: cover;
+
+}
+
+h1{
+    
+    color: rgb(58, 221, 213);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-shadow: #50024f 4px 4px; 
+    
+
+
+    height: auto;
+
+    border: 1px solid #50024f;
+
+    border-radius: 50px;
+
+    box-shadow: 8px 8px 18px rgba(213, 145, 219, 0.721);
+
+    margin-bottom: 50px;
+    
+    padding: 15px;
+}
+
+.logoh1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: rgb(58, 221, 213);
+    padding: 80px;
+    text-decoration: rgba(213, 145, 219, 0.721) wavy;
+    text-decoration-line: underline;
+
+    
+}
+
+
+.listeproduit{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: rgb(7, 10, 10);
+    padding: 80px;
+    background-color: rgba(213, 145, 219, 0.721);
+    width: 40%;
+    margin: 10px 25%;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    color: rgb(7, 8, 8);
+    padding: 10px;
+}
+
+.description{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color: rgb(5, 8, 8);
+    padding: 10px;
+}
+.prix{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    color: rgb(5, 8, 8);
+    padding: 10px;
+}
+
+
+.tableau{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 250px;
+    
+    box-shadow: 8px 8px 18px rgba(213, 145, 219, 0.721);
+}
+
